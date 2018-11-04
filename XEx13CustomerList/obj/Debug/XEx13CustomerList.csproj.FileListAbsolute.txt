@@ -1,0 +1,80 @@
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\roslyn\csc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\roslyn\vbc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\XEx13CustomerList.dll.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\XEx13CustomerList.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\XEx13CustomerList.pdb
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\obj\Debug\XEx13CustomerList.csprojResolveAssemblyReference.cache
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\obj\Debug\XEx13CustomerList.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx13CustomerList\XEx13CustomerList\obj\Debug\XEx13CustomerList.pdb
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\roslyn\csc.exe
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\roslyn\System.Collections.Immutable.dll
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\roslyn\System.Reflection.Metadata.dll
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\roslyn\vbc.exe
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\roslyn\VBCSCompiler.exe
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\roslyn\VBCSCompiler.exe.config
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\XEx13CustomerList.dll.config
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\XEx13CustomerList.dll
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\XEx13CustomerList.pdb
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\obj\Debug\XEx13CustomerList.csprojResolveAssemblyReference.cache
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\obj\Debug\XEx13CustomerList.dll
+C:\aspnet46_cs\exercises_extra\XEx13CustomerList\XEx13CustomerList\obj\Debug\XEx13CustomerList.pdb
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\roslyn\csc.exe
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\roslyn\System.Collections.Immutable.dll
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\roslyn\vbc.exe
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\roslyn\VBCSCompiler.exe
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\roslyn\VBCSCompiler.exe.config
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\XEx13CustomerList.dll.config
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\XEx13CustomerList.dll
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\XEx13CustomerList.pdb
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\obj\Debug\XEx13CustomerList.csprojResolveAssemblyReference.cache
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\obj\Debug\XEx13CustomerList.dll
+C:\Gautamb\Labs\Lab2\XEx13CustomerList\XEx13CustomerList\obj\Debug\XEx13CustomerList.pdb
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\roslyn\csc.exe
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\roslyn\System.Collections.Immutable.dll
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\roslyn\System.Reflection.Metadata.dll
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\roslyn\vbc.exe
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\roslyn\VBCSCompiler.exe
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\roslyn\VBCSCompiler.exe.config
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\XEx13CustomerList.dll.config
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\XEx13CustomerList.dll
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\XEx13CustomerList.pdb
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\obj\Debug\XEx13CustomerList.csprojResolveAssemblyReference.cache
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\obj\Debug\XEx13CustomerList.dll
+C:\sagarjoshi\Assignments\XEx13CustomerList\XEx13CustomerList\obj\Debug\XEx13CustomerList.pdb
